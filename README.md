@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhamedAyman2024
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript :D
+- 🌱 I’m currently learning C++ :D
 
 <!---
 MuhamedAyman2024/MuhamedAyman2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
